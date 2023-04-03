@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-twitter-signin/twitter-signin",
-  "version": "1.2.0",
+  "name": "@bdtren/twitter-signin",
+  "version": "1.2.1",
   "description": "Social Signin with Twitter",
   "keywords": [
     "react",
@@ -16,10 +16,10 @@
   "module": "lib/module/index.js",
   "react-native": "src/index.ts",
   "types": "lib/typescript/index.d.ts",
-  "homepage": "https://github.com/react-native-twitter-signin/twitter-signin.git",
+  "homepage": "https://github.com/bdtren/twitter-signin.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-twitter-signin/twitter-signin"
+    "url": "https://github.com/bdtren/twitter-signin"
   },
   "license": "MIT",
   "dependencies": {},

@@ -31,7 +31,7 @@ From Twitter Kit 3.3, Fabric is no longer required.
 
 Firstly, install the npm package:
 
-    npm install @react-native-twitter-signin/twitter-signin --save
+    yarn add @bdtren/react-native-twitter-signin@https://github.com/bdtren/twitter-signin
 
 ### iOS
 
