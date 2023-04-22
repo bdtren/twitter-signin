@@ -74,9 +74,7 @@ Firstly, install the npm package:
  // Podfile
  target 'MyApp' do
    # use_frameworks!
-  pod 'TwitterKit', podspec: 'https://raw.githubusercontent.com/abema/twitter-kit-ios/3.1.5/TwitterKit.podspec'
-  pod 'TwitterCore', podspec: 'https://raw.githubusercontent.com/abema/twitter-kit-ios/3.1.5/TwitterCore.podspec'
-
+   pod 'TwitterKit5', '~> 3.3.0'
  end
  ```
  - Run `pod install`
