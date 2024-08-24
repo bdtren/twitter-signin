@@ -1,2 +1,1 @@
 include ':twitter-core'
-project(':twitter-core').projectDir = new File('/twitter-core')
